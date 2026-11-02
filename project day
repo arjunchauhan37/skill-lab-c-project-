@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    int;
+    printtf("welcome n/code 1-masala chai-15 n/cde 2-samosa =-12 n/code 3- bum makkhan -38 n/code 4-lassi -48");
+    scanf("enter the code %d",& quantity);
+    
+}
